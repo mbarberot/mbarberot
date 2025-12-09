@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @mbarberot
 - 👀 I’m interested in TDD, best practice and delivering features
-- 🌱 I’m currently learning Kotlin, Ember and Rust
-- 📫 You can reach me on Twitter @mbarberot
